@@ -6,21 +6,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theagni0070&label=Profile%20views&color=0e75b6&style=flat" alt="theagni0070" /> </p>
 
-- 🔭 I’m currently working on **My-Sql**
+- 🔭 I’m currently working on **Masai School Learnings to build my skills**
 
-- 🌱 I’m currently learning **Java and RDBMS**
+- 🌱 I’m currently learning **Java and RDBMS and Spring-Boot**
 
 - 👯 I’m looking to collaborate on **New and Interesting projects**
 
-- 🤝 I’m looking for help with **Nothing**
+- 🤝 I’m looking for help with **My-Sql**
 
-- 👨‍💻 All of my projects are available at [shubham.agnihotri](shubham.agnihotri)
+- 👨‍💻 All of my projects are available at [shubham.agnihotri](https://github.com/theagni0070?tab=repositories)
 
 - 💬 Ask me about **Java and Java-Script || DSA**
 
 - 📫 How to reach me **theagni0070@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ek0xnVXerC3hi8zZ27piTp5ByvwaiQkZ/view?usp=sharing](https://drive.google.com/file/d/1ek0xnVXerC3hi8zZ27piTp5ByvwaiQkZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ek0xnVXerC3hi8zZ27piTp5ByvwaiQkZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
