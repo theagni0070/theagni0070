@@ -21,7 +21,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 - 📫 How to reach me **theagni0070@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ek0xnVXerC3hi8zZ27piTp5ByvwaiQkZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZVIPW_X7m1mn2XWOpe5Xj1mNFqN31IVo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
