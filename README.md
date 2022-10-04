@@ -13,13 +13,13 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 - 👯 I’m looking to collaborate on **New and Interesting projects**
 
-- 👨‍💻 All of my projects are available at [shubham.agnihotri](https://github.com/theagni0070?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/theagni0070?tab=repositories)
 
 - 💬 Ask me about **Java and Java-Script || My-Sql || DSA**
 
 - 📫 How to reach me **theagni0070@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZVIPW_X7m1mn2XWOpe5Xj1mNFqN31IVo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bXrdWpCCLyZeZW4icVZbOUxLIXfZj-bE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
