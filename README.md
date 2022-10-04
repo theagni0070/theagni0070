@@ -13,11 +13,9 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 - 👯 I’m looking to collaborate on **New and Interesting projects**
 
-- 🤝 Ask me about **My-Sql**
-
 - 👨‍💻 All of my projects are available at [shubham.agnihotri](https://github.com/theagni0070?tab=repositories)
 
-- 💬 Ask me about **Java and Java-Script || DSA**
+- 💬 Ask me about **Java and Java-Script || My-Sql || DSA**
 
 - 📫 How to reach me **theagni0070@gmail.com**
 
