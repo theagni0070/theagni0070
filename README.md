@@ -13,7 +13,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 - 👯 I’m looking to collaborate on **New and Interesting projects**
 
-- 🤝 I’m looking for help with **My-Sql**
+- 🤝 Ask me about **My-Sql**
 
 - 👨‍💻 All of my projects are available at [shubham.agnihotri](https://github.com/theagni0070?tab=repositories)
 
